@@ -1,1 +1,9 @@
-# hg_1_delta
+Encargado 
+-Alfredo Rodriguez / @Alfredobrc
+
+#Colaboradores
+
+Kenin Hernández
+Roxibel Berrios
+Francisco Botardo
+Alfredo
